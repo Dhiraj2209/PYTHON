@@ -1,0 +1,16 @@
+QLabel {
+    font-size: 42px; 
+    font-weight: bold;
+    color: #333333;
+    qproperty-alignment: 'AlignCenter';
+    margin: 10px; 
+    border: 2px solid #ff0000; 
+    border-radius: 10px; 
+    padding: 5px;
+}
+
+
+QFrame {
+    color: #000888;
+    max-height: 50px;
+}
